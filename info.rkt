@@ -1,4 +1,5 @@
 #lang info
+(define pkg-name "xmllint-win32-x86_64")
 (define collection "xmllint-win32-x86_64")
 (define deps '("base"))
 (define build-deps '())
